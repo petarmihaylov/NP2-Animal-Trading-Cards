@@ -1,0 +1,51 @@
+/* add your CSS here */
+body {
+  font-family: sans-serif;
+}
+
+p {
+  margin: 15px 0 15px 0px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+img {
+  margin-bottom: 10px;
+  width: 300px;
+  border-radius: 5px;
+}
+
+.aminal-card {
+  width: 300px;
+  padding: 0 10px 10px 10px;
+  border: 1px;
+  border-color: gray;
+  border-style: solid;
+  border-radius: 5px;
+  box-shadow: 3px 3px 15px 3px #C5BBBB;
+}
+
+.animal-header {
+  margin: 10px 5px 10px 0;
+}
+
+.animal-factshett {
+  padding: 0 10px 5px 10px;
+  border: 1px;
+  border-color: gray;
+  border-style: solid;
+  border-radius: 5px;
+}
+
+.emphasize {
+  font-style: italic;
+}
+
+.strong {
+  font-weight: bold;
+}
